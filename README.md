@@ -1,9 +1,8 @@
 # RIYA-SINGH
-A little bit about me!
+Greetings,
 
-Hey! My name is Riya Singh and I'm a 4th year engineering student at KSSEM.
-I'm also a core team member for GDSC-KSSEM.
+I’m Riya Singh, a graduate of K.S School of Engineering and Management with a B.E in Computer Science and Engineering. I am passionate about Golang development and have nearly a year of experience working with this powerful language.
 
-I've been interested in Artificial Intelligence and Machine Learning for a while and I'm learning my way around it. 
+I am also interested in Blockchain and technologies related to the cloud. 
 
-I'd love to work on more projects and learn more in the coming future!
+During my time in my current role, I have developed strong skills in Golang and Blockchain, contributing to several projects. I am actively seeking new opportunities to hone my skills further and contribute to innovative projects.
